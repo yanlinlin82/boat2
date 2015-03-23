@@ -1,0 +1,1 @@
+BOAT (Basic Oligonucleotide Alignment Toolkit) is a tool provide an efficient way to find mapped positions for a mount of sequenced reads.
